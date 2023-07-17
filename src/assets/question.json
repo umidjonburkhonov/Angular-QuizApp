@@ -1,0 +1,58 @@
+{
+    "question": [
+        {
+            "questionText": "What is your name",
+            "options": [
+                {
+                    "text": "Umidjon",
+                    "currect": true
+                },
+                {
+                    "text": "Samar"
+                },
+                {
+                    "text": "Yusuf"
+                },
+                {
+                    "text": "Azizbek"
+                }
+            ]
+        },
+        {
+            "questionText": "What is your Job",
+            "options": [
+                {
+                    "text": "Javascript developer",
+                    "currect": true
+                },
+                {
+                    "text": "PHP Developer"
+                },
+                {
+                    "text": "Python Full Stack"
+                },
+                {
+                    "text": "ReactJS Developer"
+                }
+            ]
+        },
+        {
+            "questionText": "Where are from?",
+            "options": [
+                {
+                    "text": "Tajikistan",
+                    "currect": true
+                },
+                {
+                    "text": "Usbekistan"
+                },
+                {
+                    "text": "Germany"
+                },
+                {
+                    "text": "Egypt"
+                }
+            ]
+        }
+    ]
+}
